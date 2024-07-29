@@ -1,4 +1,4 @@
--A versatile professional with dual expertise in Computer Science and Business Studies, skilled in leveraging technology for business solutions.
+A versatile professional with dual expertise in Computer Science and Business Studies, skilled in leveraging technology for business solutions.
 
 -Web Development Skills:
 - Technologies: HTML, CSS, JavaScript, React
